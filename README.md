@@ -7,4 +7,4 @@
 
 도움 : 권희준 
 
-## 홈페이지 주소 : https://sirius-team.github.io/Sirius_Homepage/
+## 홈페이지 주소 : https://sirius-team.github.io/SiriusHompage/
